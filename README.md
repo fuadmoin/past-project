@@ -33,7 +33,7 @@
 
 # 📖 [Past Project] <a name="about-project"></a>
 
-**[Past Project]** is a simple a html project created for review purpose.
+**[Past Project]** is a simple html project created for review purpose.
 
 ## 🛠 Built With <a name="built-with"></a>
 
